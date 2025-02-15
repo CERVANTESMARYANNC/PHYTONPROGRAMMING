@@ -1,3 +1,6 @@
 # PHYTONPROGRAMMING
 PHYTON PROGRAMMING ON HOW TO MAKE A DICTIONARY USING CODING
-A Badminton Dictionary
+(BADMINTON DICTIONARY EDITION)
+
+Video of coding a dictionary
+https://youtu.be/ShyS63htCdU
